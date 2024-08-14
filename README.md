@@ -4,7 +4,9 @@ ________________________________________________________________________________
 👀 I’m interested in data science, machine learning, and software development.
 _____________________________________________________________________________________
 
-🌱 I’m currently learning Python, data structures, and machine learning algorithms.
+🌱 I’m skilled in Java OOP and data structures, as well as Python for data science using pandas, numpy, scikit-learn, 
+and data visualization libraries. 
+I’m also proficient in machine learning model development, data preprocessing, feature engineering, and statistical analysis.
 _____________________________________________________________________________________
 
 💞️ I’m looking to collaborate on data science projects, Python development, and machine learning applications.
