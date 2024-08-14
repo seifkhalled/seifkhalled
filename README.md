@@ -1,6 +1,8 @@
 👋 Hi, I’m @seifkhalled
 👀 I’m interested in data science, machine learning, and software development.
 🌱 I’m currently learning Python, data structures, and machine learning algorithms.
+_____________________________________________________________________________________
+
 💞️ I’m looking to collaborate on data science projects, Python development, and machine learning applications.
 📫 How to reach me: You can reach me through my GitHub profile or LinkedIn.
 😄 Pronouns: He/Him
